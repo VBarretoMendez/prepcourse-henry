@@ -1,2 +1,2 @@
 # prepcourse-henry
-este es un repositorop de prueba
+este proyecto es una prueba para clonarlo en mi equipo local
